@@ -8,6 +8,7 @@ Created on Sat Oct 13 04:42:34 2018
 import pandas
 from openpyxl import load_workbook
 
+#Os 2 arquivos citados abaixo já devem existir na pasta local
 #Arquivo de Resumo Corrigido
 arquivo_resumo_corrigido = 'Resumo ANUAL-2017.xlsx'
 
